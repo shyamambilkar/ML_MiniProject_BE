@@ -1,0 +1,15 @@
+id ,age ,income,gender,marital_status,buys
+1,<21,high,male,single,No
+2,<21,high,male,married,No
+3,21-35,high,male,single,Yes
+4,>35,medium,male,single,Yes
+5,>35,low,female,single,Yes
+6,>35,low,female,married,No
+7,21-35,low,female,married,Yes
+8,<21,medium,male,single,No
+9,<21,low,female,married,Yes
+10,>35,medium,female,single,Yes
+11,<21,medium,female,married,Yes
+12,21-35,medium,male,married,Yes
+13,21-35,high,female,single,Yes
+14,>35,medium,male,married,No
